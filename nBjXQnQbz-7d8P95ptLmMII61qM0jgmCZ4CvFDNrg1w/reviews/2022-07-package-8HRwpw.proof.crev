@@ -1,0 +1,21 @@
+----- BEGIN CREV PROOF -----
+kind: package review
+version: -1
+date: "2022-07-01T15:30:16.624851-07:00"
+from:
+  id-type: crev
+  id: nBjXQnQbz-7d8P95ptLmMII61qM0jgmCZ4CvFDNrg1w
+  url: "https://github.com/mattruzzi/crev-proofs"
+package:
+  source: "https://crates.io"
+  name: deno
+  version: 1.23.2
+  digest: mVVPhGz7HfjmKmaTHZJ8myx3cxYm4t7tmhWj4wJCHFs
+review:
+  thoroughness: none
+  understanding: none
+  rating: positive
+----- SIGN CREV PROOF -----
+-18oegcPuel3i-UEG5V1_I0EXsWIFCJpUnYqaLsaIR-mHiy4s3m-Wnta7sLipwojL4QDrLTWXrIeQpTmPu_DAA
+----- END CREV PROOF -----
+
